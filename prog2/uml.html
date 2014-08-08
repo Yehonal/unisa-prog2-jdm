@@ -1,0 +1,18 @@
+<html>
+<body>
+	<script type="text/javascript">
+	var zoom=90;
+	</script>
+    <div>
+    	<div style="height: 50px; position:fixed">
+        <button onclick="if (zoom>10) zoom=zoom-10; document.getElementById('svgImg').style.zoom=zoom+'%'" name="zoom-">Zoom -</button>
+        <button onclick="zoom=zoom+10; document.getElementById('svgImg').style.zoom=zoom+'%'" name="zoom+">Zoom +</button>
+        <button onclick="zoom=100; document.getElementById('svgImg').style.zoom=zoom+'%'" name="zoom+">Reset</button>
+        </div>
+        <div>
+        <img id="svgImg"
+            src="UML_simplified.png" style="zoom:90%">
+       	</div>
+    </div>
+</body>
+</html>

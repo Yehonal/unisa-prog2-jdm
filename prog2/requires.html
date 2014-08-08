@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <title>Analisi dei requisiti</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <link href="../style.css" rel="stylesheet" type="text/css"/>
+    </head>
+	<body>
+        
+<h1>Analisi dei requisiti</h1>
+<pre>
+            
+        <h3>Obbiettivi</h3>
+        JDealsManager è un software di ecommerce scritto in Java che permetterà
+        agli utenti di registrarsi e acquistare articoli in offerta quali: 
+        beni di consumo, prestazioni occasionali, viaggi e cene al ristorante.
+        Prevederà inoltre la possibilità di beneficiare di diverse politiche di sconto
+        che possono ridurre il costo del proprio ordine.
+        Saranno presenti 3 diversi livelli di utenza per JDealsManager quali: 
+        Utente , Fornitore e Amministratore ognuno dei quali potrà effettuare determinate
+        azioni nel sistema. 
+
+
+        <h2>Manuali</h2>
+
+        <h3>Manuale utente</h3>
+
+        * All'accesso del programma l'utente dovrà registrarsi tramite l'apposito form
+          ed effettuare il login
+          
+        * Una volta effettuato il login l'utente può scegliere tra 3 opzioni:
+
+        - Catalogo
+        - Storico Ordini
+        - Profilo Utente
+
+        * Il catalogo fornisce l'elenco degli articoli disponibili con diverse opzioni
+          per filtrarli in base ad un range di date o per feedback fornitore maggiore di 
+          un dato valore. Offre inoltre 2 tipi di ordinamento: per data e per id.
+          E' possibile poi acquistare una variabile quantità di articoli che verranno 
+          inseriti all'interno del proprio carrello. E' possibile accedere al carrello
+          tramite l'apposito pulsante posto nella parte alta del catalogo. Il carrello
+          fornirà informazioni sul prezzo , scontato ove possibile, oltrechè la 
+          possibilità di rimuovere articoli dallo stesso carrello o pagare l'ordine.
+          
+        * Lo storico ordini mostra una tabella con l'elenco degli ordini effettuati e 
+          pagati ordinati per data di acquisto. E' possibile aprire ogni singolo 
+          ordine per visionare gli articoli acquistati con esso ed eventualmente votare
+          il fornitore qualora si tratti di beni di consumo o prestazioni.
+          
+        * Nel profilo utente è possibile visionare le proprie informazioni personali
+          e acquitare credito virtuale per JDealsManager
+          
+          
+        <h3>Manuale fornitore</h3>
+
+        * Un Utente manager di tipo "fornitore" è in grado di effettuare tutte le operazioni 
+          disponibili per gli utenti base, in più saranno in grado di aggiungere 
+          Beni di consumo o Prestazioni occasionali ed eliminare i propri articoli 
+          direttamente dalla schermata del catalogo.
+          
+        <h3>Manuale Amministratore</h3>
+
+        * L'amministratore avrà tutti i privilegi del fornitore ed in più sarà presente
+          un ulteriore pannello per l'inserimento e la rimozione di regole di sconto 
+          personalizzate. Inoltre avrà la possibilità di aggiungere, rimuovere e visualizzare
+          qualsiasi tipo di articolo.
+
+
+        <h2>Requisiti</h2>
+
+        Il sistema sarà in grado di gestire una grande quantità di dati ed i processi 
+        sono praticamente instantanei poichè sarà sviluppato con l'ottimizzazione 
+        delle prestazioni in mente
+
+        Requisiti di sistema:
+
+        * Diversi megabyte di spazio disponibile sul disco ( a seconda della quantità di articoli e utenti )
+        * Privilegi di lettura/scrittura sul disco
+
+		</pre>
+	</body>
+</html>

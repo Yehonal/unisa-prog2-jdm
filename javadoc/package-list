@@ -1,0 +1,12 @@
+com.jdeals.libs
+com.jdeals.main.controller
+com.jdeals.main.entity
+com.jdeals.main.entity.catalogue
+com.jdeals.main.entity.user
+com.jdeals.main.helper
+com.jdeals.main.helper.discount
+com.jdeals.main.helper.filter
+com.jdeals.main.helper.sort
+com.jdeals.main.helper.storage
+com.jdeals.main.view.gui
+com.jdeals.tests
