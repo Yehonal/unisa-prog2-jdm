@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="false" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="com.jdeals.main.view.gui.JFrameLogin" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JFrameLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="707" y="90"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.jdeals.main.view.gui.JFrameMain" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JFrameMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="573" y="213"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.jdeals.main.view.gui.JPanelMain" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JPanelMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="796" y="234"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.jdeals.main.view.gui.JDialogCatalogue" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JDialogCatalogue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1005" y="346"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.jdeals.main.view.gui.JDialogDiscounts" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JDialogDiscounts.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="624" y="506"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.jdeals.main.view.gui.JDialogOrder" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JDialogOrder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="897" y="417"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.jdeals.main.view.gui.JDialogOrders" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JDialogOrders.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="819" y="342"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.jdeals.main.view.gui.JDialogAddItem" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JDialogAddItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1172" y="406"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.jdeals.main.view.gui.JDialogProfile" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/view/gui/JDialogProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="453" y="506"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.jdeals.main.controller.JDealsController" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/controller/JDealsController.java" binary="false" corner="BOTTOM_LEFT">    
+    <position height="-1" width="-1" x="891" y="769"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.jdeals.main.controller.Store" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/controller/Store.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="918" y="995"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.jdeals.main.entity.catalogue.Item" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/catalogue/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="791" y="1219"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.jdeals.main.entity.catalogue.Event" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/catalogue/Event.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="609" y="1350"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.jdeals.main.entity.catalogue.Supply" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/catalogue/Supply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="936" y="1348"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.jdeals.main.entity.catalogue.Service" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/catalogue/Service.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="934" y="1436"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.jdeals.main.entity.catalogue.GeneralGood" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/catalogue/GeneralGood.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1127" y="1436"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.jdeals.main.entity.catalogue.Restourant" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/catalogue/Restourant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="483" y="1436"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.jdeals.main.entity.catalogue.Travel" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/catalogue/Travel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="729" y="1434"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.jdeals.main.entity.user.User" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/user/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="467" y="922"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.jdeals.main.entity.user.Manager" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/entity/user/Manager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="482" y="1068"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" name="com.jdeals.main.helper.discount.DiscountInterface" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/discount/DiscountInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1548" y="774"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="com.jdeals.main.helper.discount.LastDaysDiscount" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/discount/LastDaysDiscount.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1734" y="605"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.jdeals.main.helper.discount.RatedDiscount" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/discount/RatedDiscount.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1542" y="662"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.jdeals.main.helper.discount.QuantityDiscount" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/discount/QuantityDiscount.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1776" y="739"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.jdeals.main.helper.discount.RestourantDiscount" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/discount/RestourantDiscount.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1733" y="523"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="com.jdeals.main.helper.filter.Predicate" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/filter/Predicate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1388" y="999"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="com.jdeals.main.helper.filter.FilterByMinScore" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/filter/FilterByMinScore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1651" y="992"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.jdeals.main.helper.filter.FilterByDateRange" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/filter/FilterByDateRange.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1612" y="1081"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.jdeals.main.helper.filter.Filter" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/filter/Filter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1512" y="877"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="30" language="java" name="com.jdeals.main.helper.storage.DataBaseInterface" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/storage/DataBaseInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1578" y="1246"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="31" language="java" name="com.jdeals.main.helper.storage.FileSerialization" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/storage/FileSerialization.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1752" y="1218"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="32" language="java" name="com.jdeals.main.helper.Availability" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/Availability.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1345" y="1421"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="33" language="java" name="com.jdeals.main.helper.QAvailability" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/QAvailability.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1318" y="1316"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="34" language="java" name="com.jdeals.main.helper.sort.SortingClass" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/sort/SortingClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1396" y="426"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.jdeals.main.helper.sort.OrderDateSort" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/sort/OrderDateSort.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1604" y="320"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.jdeals.main.helper.sort.OrderCostSort" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/sort/OrderCostSort.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1597" y="407"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.jdeals.main.helper.sort.ItemIndexSort" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/sort/ItemIndexSort.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1564" y="496"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.jdeals.main.helper.sort.ItemDateSort" project="JDealsManager" 
+    file="/JDealsManager/src/com/jdeals/main/helper/sort/ItemDateSort.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1436" y="545"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" accessors="true" 
+      visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="39">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="41">    
+    <bendpoint x="1013" y="474"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <association id="43">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="44" name="mainCtrl"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="46">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <realization id="50">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="51">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="52" name="predicate"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="54">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="55">    
+    <bendpoint x="656" y="808"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="57">    
+    <bendpoint x="818" y="506"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="58" name="ctrl"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="61">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="62">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="64">    
+    <bendpoint x="741" y="449"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="65" name="ctrl"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="67">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="308" y="276"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="70">    
+    <bendpoint x="814" y="954"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <association id="73">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="74" name="instance"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <dependency id="77">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="78">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <dependency id="80">    
+    <bendpoint x="1073" y="1104"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="82">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="83" name="store"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="85">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="86">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="87">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="88">    
+    <bendpoint x="1001" y="454"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="89" name="ctrl"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="92">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <dependency id="93">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="94">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="95">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="96">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="97" name="discounts"/>      
+      <multiplicity id="98" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="100" name="items"/>      
+      <multiplicity id="101" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="102">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="103">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="104">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <generalization id="105">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <dependency id="106">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="108">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="109">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="110" name="ctrl"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="112">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <realization id="113">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <generalization id="114">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <dependency id="115">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <realization id="116">    
+    <bendpoint x="977" y="1374"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="33"/>  
+  </realization>  
+  <association id="117">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="118" name="ctrl"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="120">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <realization id="121">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <dependency id="122">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="123">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="124">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="125">    
+    <bendpoint x="1085" y="745"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <generalization id="126">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <dependency id="127">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="128">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <association id="130">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="131" name="ctrl"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="133">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="134">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="135">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="136">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="137">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="138">    
+    <bendpoint x="1270" y="1050"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="139">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <generalization id="140">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <dependency id="141">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <association id="142">    
+    <bendpoint x="546" y="1330"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="143" name="supplier"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="145">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="146">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <realization id="147">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="30"/>  
+  </realization>  
+  <generalization id="148">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <dependency id="149">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="150">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="151">    
+    <bendpoint x="1092" y="853"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="152">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="153">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="154">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <realization id="155">    
+    <bendpoint x="1245" y="1420"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="33"/>  
+  </realization>  
+  <dependency id="156">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="157">    
+    <bendpoint x="1101" y="276"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <generalization id="158">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <realization id="159">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <dependency id="160">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="161">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <association id="162">    
+    <bendpoint x="653" y="400"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="163" name="ctrl"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="165">    
+    <bendpoint x="1209" y="946"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <association id="166">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="167" name="ctrl"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <association id="169">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="170" name="users"/>      
+      <multiplicity id="171" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="172">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="173">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="174">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="175">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="176">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="177">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="178" name="panel"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <generalization id="180">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <dependency id="181">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="182">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="183" name="ctrl"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <dependency id="185">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="186">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="187">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="188">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="189">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="190" name="curUser"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="false"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="false" package="true" initial-value="false" signature="false" 
+    accessors="true" visibility="false">    
+    <attributes public="false" package="false" protected="false" private="false" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>
